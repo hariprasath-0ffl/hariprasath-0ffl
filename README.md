@@ -2,7 +2,7 @@
 <h3 align="center">I'm a self-taught passionate FrontEnd developer from India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h5>- 👨‍💻 All of my projects are available at <a href="https://hariprasathpn-portfolio.netlify.app/](https://hariprasathpn-portfolio.netlify.app/">hariprasathpn-portfolio</a></h5>
+<h5>- 👨‍💻 All of my projects are available at <a href="https://hariprasathpn-portfolio.netlify.app/">hariprasathpn-portfolio</a></h5>
 
 <h5>- 📫 How to reach me <a href="prasath2621@gmail.com"> prasath2621@gmail.com</a></h5>
 

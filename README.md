@@ -2,14 +2,16 @@
 <h3 align="center">I'm a self-taught passionate FrontEnd developer from India </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 👨‍💻 All of my projects are available at [https://hariprasathpn-portfolio.netlify.app/](https://hariprasathpn-portfolio.netlify.app/)
+<h5>- 👨‍💻 All of my projects are available at <a href="https://hariprasathpn-portfolio.netlify.app/](https://hariprasathpn-portfolio.netlify.app/">hariprasathpn-portfolio</a></h5>
 
-- 📫 How to reach me **prasath2621@gmail.com**
+<h5>- 📫 How to reach me <a href="prasath2621@gmail.com"> prasath2621@gmail.com</a></h5>
 
-- 📄 Know about my experiences [https://hariprasathpn-portfolio.netlify.app/static/media/hariprasathresume.cbca352d.pdf](https://hariprasathpn-portfolio.netlify.app/static/media/hariprasathresume.cbca352d.pdf)
+<h5>- 📄 Know about my experiences <a href="https://hariprasathpn-portfolio.netlify.app/static/media/hariprasathresume.cbca352d.pdf"> Resume.pdf</a></h5>
+
 > Language usage
 
-<div align="center">
+<div align="left">
+    <br>
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
 </div>
 <h3 align="left">Connect with me:</h3>

@@ -4,7 +4,7 @@
 
 <h5>- 👨‍💻 All of my projects are available at <a href="https://hariprasathpn-portfolio.netlify.app/">hariprasathpn-portfolio</a></h5>
 
-<h5>- 📫 How to reach me <a href="prasath2621@gmail.com"> prasath2621@gmail.com</a></h5>
+<h5>- 📫 How to reach me prasath2621@gmail.com</h5>
 
 <h5>- 📄 Know about my experiences <a href="https://hariprasathpn-portfolio.netlify.app/static/media/hariprasathresume.cbca352d.pdf"> Resume.pdf</a></h5>
 

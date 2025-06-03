@@ -6,7 +6,7 @@
 
 <h5>- 📫 How to reach me prasath2621@gmail.com</h5>
 
-<h5>- 📄 Know about my experiences <a href="https://hariprasathpn-portfolio.netlify.app/static/media/hariprasathresume.cbca352d.pdf">Resume.pdf</a></h5>
+<h5>- 📄 Know about my experiences <a href="https://hariconnect.netlify.app/assets/resume-DUnPcwbC.pdf">Resume.pdf</a></h5>
 
 > Language usage
 
